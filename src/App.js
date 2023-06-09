@@ -2,7 +2,7 @@ import "./App.css";
 import { AgGridReact } from "ag-grid-react";
 import "ag-grid-community/styles/ag-grid.css";
 import "ag-grid-community/styles/ag-theme-alpine.css";
-import { useState, useEffect } from "react";
+import { useState } from "react";
 import { useMemo } from "react";
 import { useCallback } from "react";
 import User from './users.json'
